@@ -13,7 +13,7 @@ The first project of the course is a Task List and we did this page from scratch
  * A list of all tasks saved;
  * And last but not least, we have a Clear Task button, witch function is clear all tasks.
 
-## What've we used to build this
+## What we've used to build this
 The main concept we were tryng to learn was DOM manipulation, so the project turn around this:
  * We've used querySelector to get elements from HTML to JS;
  * We also had use EventListners to run an event after certain action from the user;
