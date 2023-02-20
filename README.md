@@ -56,3 +56,32 @@ Well, similar to the first project, we've used DOM manipulation to creat new thi
 ## What I thought about this project
 
 I cannot say that project was hard to complete, but i cannot say it was nothing too. Took the elements value from HTML, pass to JS, then work this values with math, make the entire result card apper before the calculation was done was really good to improve my skills and my logic and i'm loving how it was hard in past, but it's becoming a normal thing right now.
+
+# Third Project - Number Guesser
+
+The third project of the course, and it's a number guesses, wanna have some fun? Different of the projects above, we have used Skeleton to build the UI.
+
+**The page layout:**
+
+- A big heading with the name 'Number Guesser';
+- A paragraph wich contains the min and max number that can be generated;
+- A config button to change this values;
+- A input field to put your guess;
+- A submit button to send your guess;
+- The button above become a play again button if you win or you lose;
+- And if we press config button, a new div appers, with inputs to change the min and max values;
+- And, to save that values, we hava a save button.
+
+## What we've used to build this
+
+This secction of the course is all about DOM manipulation, so this project can't be different, but, i've used:
+
+- Query Selector to take elements from the HTML to JS;
+- Event listners to the user can really use the page;
+- Functions for repetitive processes and Arrow Function;
+- Math lib to generate aleatory numbers;
+- A config div wich appears and desappears.
+
+## What I thought about this project
+
+The project was not hard to complete, i've really seen a evolution in my thoughts while i'm progamming. In the course project we don't have the config part, so it was a thing a wanted to do by my self, because i saw this necessity in the project, so, more one project done and more learned things to my mind.
