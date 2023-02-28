@@ -84,4 +84,4 @@ This secction of the course is all about DOM manipulation, so this project can't
 
 ## What I thought about this project
 
-The project was not hard to complete, i've really seen a evolution in my thoughts while i'm progamming. In the course project we don't have the config part, so it was a thing a wanted to do by my self, because i saw this necessity in the project, so, more one project done and more learned things to my mind.
+The project was not hard to complete, i've really seen a evolution in my thoughts while i'm progamming. In the course project we don't have the config part, so it was a thing a wanted to do by myself, because i saw this necessity in the project, so, more one project done and more learned things to my mind.
