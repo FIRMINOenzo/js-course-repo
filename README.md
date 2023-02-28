@@ -85,3 +85,41 @@ This secction of the course is all about DOM manipulation, so this project can't
 ## What I thought about this project
 
 The project was not hard to complete, i've really seen a evolution in my thoughts while i'm progamming. In the course project we don't have the config part, so it was a thing a wanted to do by myself, because i saw this necessity in the project, so, more one project done and more learned things to my mind.
+
+# Starting a new content in the course
+
+Well, after seeing the DOM manipulation in the first section of the course, we've been started to look at Oriented Object Programming, also known as OOP. I've big expectations of what we'll learn from now and i can even imagine what i'll be able to make, big projects in mind!
+
+# Fourth Project - OOP Book List
+
+This is the first project that we've been using Oriented Object Programming, so was a new thing to me, but i really liked how i can use OOP in my projects and how cool is use it. Just to keep the standard, i shall say that we've used skeleton CSS to complement the UI.
+
+**The page layout:**
+
+- A heading of 'Add book';
+- Three inputs, first one for the Title of the book, second one for the Author of the book, and the last one for the ISBN (A number of the book registration), whitin a form;
+- At last, we've a table to show all added books, with the information of the inputs above.
+
+## What we've used to build this
+
+Taking into account that is the first project with OOP, we've used a bunch of new things. The new things are: Three classes, one was the Book class, other one was the UI class and last one was the Store class.
+### Book class:
+- This was the simplest class, just taken the book title, author and ISBN within its parameters;
+
+### UI class:
+- This class is associated with the UI manipulation, so we have four methods for it, wich was:
+  - AddBookToList: This method is called when we get all the three inputs of the book class and then need to show the book on the list;
+  - CreateAlert: This method is called when is needed to show a alert to the user, wich can be an error or a succes alert;
+  - ClearFields: This method is used to clear all the fields in the form, to make a better using for the user;
+  - RemoveFromList: This method does the opposite of the AddBookToList, removing the book from the list;
+
+### Store class:
+- This class is associated with the browser local storage, wich contains three static methods:
+  - GetBooks: This method receives a key, and then return the value of this key in the local storage, its used to check the books that was add;
+  - AddBookToLS: This method is simple, just take the added book and add this to the local storage too;
+  - RemoveBookFromLS: This method does the opposite of the AddBookToLS, removing the book from the local storage, working together with the RemoveFromList from UI class.
+
+## What I thought about this project
+
+I really enjoyed that project, was a bit different from the others, and it came with a whole new idea, but keeping the "old" ideas. I guess for now I will be able to make others bigger projects, I'm sure.
+ 
