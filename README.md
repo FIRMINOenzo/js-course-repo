@@ -143,4 +143,4 @@ We have used all the things we've learned before, and the new one is API. There 
 
 ## What I thought about this project
 
-Even though it's a simple project, I liked it, because I made it with my own hands. The project in the course was using an API that doesn't exist anymore, so I needed to adapt to what I have to use now.
+Even though it's a simple project, I liked it, because I made it with my own hands. The project in the course was using an API that doesn't exist anymore, so I needed to adapt to what I have to use now. 
