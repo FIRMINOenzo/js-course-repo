@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" integrity="sha512-5fsy+3xG8N/1PV5MIJz9ZsWpkltijBI48gBzQ/Z2eVATePGHOkMIn+xTDHIfTZFVb9GMpflF2wOWItqxAP2oLQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Chuck Norris Jokes</title>
+</head>
+<body>
+  <div class="container">
+    <h2>Chuck Norris Jokes Generator</h2>
+    <form>
+      <div>
+        <label for="categories">Select the Joke's Category</label>
+        <select id="categories">
+          <option value="any" selected>any</option>
+        </select>
+      </div>
+      <div>
+        <input type="submit" id="get-jokes" value="Get random jokes">
+        <input type="button" id="clear-jokes" value="Clear Jokes">
+      </div>
+    </form>
+
+    <ul class="jokes"></ul>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
