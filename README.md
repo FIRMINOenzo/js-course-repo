@@ -144,3 +144,28 @@ We have used all the things we've learned before, and the new one is API. There 
 ## What I thought about this project
 
 Even though it's a simple project, I liked it, because I made it with my own hands. The project in the course was using an API that doesn't exist anymore, so I needed to adapt to what I have to use now. 
+
+# Sixth Project - Easy HTTP Requests
+
+Well, this project was made to make our lives easier. I don't have much to talk about regarding the design of this one, because it does not have an HTML page, it is more like a support library for future projects, so we can use APIs within our projects, without building its code.
+
+## What we've used to build this
+
+Since you know that the project does not have a layout, I will just say the things you can do with this. In this library, you can do 4 HTML Methods, GET, POST, PUT, and DELETE.
+
+- GET:
+  You will send a GET Request, passing the URL you want to get information;
+
+- POST:
+  In this, you will send information to the API, so you pass the URL and the data you want to send.
+
+- PUT:
+  This method is to update some information, so you send an URL and the data you want to update in the URL.
+
+- DELETE:
+  The last method, delete the information from the URL you send.
+
+## What I thought about this project
+
+I liked to build this with all this new stuff. Things are getting interesting and scaling the level. I can't wait to go on.
+
